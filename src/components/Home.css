@@ -1,0 +1,10 @@
+
+.hero-text{
+    margin-top: 190px;
+    height: calc(70vh - 50px);
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    font-size: 75px;
+    margin-bottom: 10px;
+}
